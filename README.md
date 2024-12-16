@@ -46,7 +46,7 @@ A loan tracking app developed with **Ionic**, **Angular**, **Firebase**, and **T
    ![Firebase](https://skillicons.dev/icons?i=firebase)
    ![TypeScript](https://skillicons.dev/icons?i=ts)
 
-### 2. **[KidFit Store](https://github.com/AlainLobato/KidFitStore)**  
+### 2. **[KidFit Store](https://github.com/AlainLobato/KidFit-Store)**  
 An e-commerce app for kids' products, built with **Bootstrap**, **CSS**, and **HTML**.  
 🔧 Tech: 
    - ![HTML5](https://skillicons.dev/icons?i=html)
