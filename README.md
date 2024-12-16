@@ -60,7 +60,7 @@ A budget and expense tracker app developed with **Flask**, **Plotly** for graphi
    ![SQL Lite](https://skillicons.dev/icons?i=sqlite)
    ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
-### 4. **[Numerical Analysis Webpage](https://github.com/AlainLobato/NumericalAnalysisWeb)**  
+### 4. **[Numerical Analysis Webpage](https://github.com/AlainLobato/PIA-AD)**  
 A webpage for solving problems with various methods, developed with **HTML**, **JavaScript**, and **CSS** (Bootstrap).  
 🔧 Tech: 
    - ![HTML5](https://skillicons.dev/icons?i=html)
