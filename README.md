@@ -4,7 +4,7 @@
 
 I'm a **Computer Science student** with a passion for software development, hybrid app development, and data analysis. Always seeking innovative solutions to complex problems. 
 
-🎮 In my free time, I'm a **Pokémon fan**, a **passionate mathematician**, and a **musician**. I also proudly support **Rayados** ⚽! ![Rayados Logo](https://upload.wikimedia.org/wikipedia/commons/a/a4/Club_de_F%C3%BAtbol_Monterrey_logo.png)
+🎮 In my free time, I'm a **Pokémon fan**, a **passionate mathematician**, and a **musician**. I also proudly support **Rayados** ⚽! ![Rayados Logo](https://cdn.brandfetch.io/idmtLjI82q/theme/dark/logo.svg?c=1bfwsmEH20zzEfSNTed)
 
 
 🌎 **From Monterrey, Mexico** 🇲🇽 | **19 years old** 🎂
