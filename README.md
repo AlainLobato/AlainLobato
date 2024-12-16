@@ -39,7 +39,7 @@ I'm a **Computer Science student** with a passion for software development, hybr
 
 ## 🚀 Projects
 
-### 1. **[CashyApp](https://github.com/AlainLobato/CashyApp)**  
+### 1. **[CashyApp](https://github.com/AlainLobato/Cashy-App)**  
 A loan tracking app developed with **Ionic**, **Angular**, **Firebase**, and **TypeScript**.  
 🔧 Tech: 
    - ![Angular](https://skillicons.dev/icons?i=angular)
