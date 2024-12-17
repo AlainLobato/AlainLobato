@@ -2,7 +2,7 @@
 
 ### "Programming the world one line at a time" 🌍💻
 
-I'm a **Computer Science student** with a passion for software development, hybrid app development, and data analysis. Always seeking innovative solutions to complex problems. 
+I'm a **Computer Science student** with a passion for software development, hybrid app development, and data analysis. Always seeking innovative solutions to complex problems :).
 
 🎮 In my free time, I'm a **Pokémon fan**, a **passionate mathematician** and a **musician**. I also proudly support **Rayados** ⚽! <img src="https://cdn.brandfetch.io/idmtLjI82q/theme/dark/logo.svg?c=1bfwsmEH20zzEfSNTed" alt="Rayados Logo" width="22"/>
 
