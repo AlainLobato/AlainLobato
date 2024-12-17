@@ -7,7 +7,7 @@ I'm a **Computer Science student** with a passion for software development, hybr
 🎮 In my free time, I'm a **Pokémon fan**, a **passionate mathematician** and a **musician**. I also proudly support **Rayados** ⚽! <img src="https://cdn.brandfetch.io/idmtLjI82q/theme/dark/logo.svg?c=1bfwsmEH20zzEfSNTed" alt="Rayados Logo" width="22"/>
 
 
-🌎 **From Monterrey, Mexico** 🇲🇽 | **19 years old** 🎂
+🌎 **From Monterrey, Mexico** 🇲🇽 | **19 years old.** 🎂
 
 ## 💼 Skills
 
