@@ -1,6 +1,6 @@
 # Hi there, I'm Alain Lobato. 👋
 
-### "Programming the world one line at a time." 🌍💻
+### "Programming the world one line at a time" 🌍💻
 
 I'm a **Computer Science student** with a passion for software development, hybrid app development, and data analysis. Always seeking innovative solutions to complex problems. 
 
