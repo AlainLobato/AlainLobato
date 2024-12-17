@@ -12,6 +12,8 @@ I'm a **Computer Science student** with a passion for software development, hybr
 ## 💼 Skills
 
 ### Intermediate
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Angular](https://skillicons.dev/icons?i=angular)
@@ -77,7 +79,3 @@ Feel free to contribute with new ideas, code improvements, or feedback!
 ## 🗣️ Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlainLobato&layout=compact&theme=radical)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlainLobato&theme=radical)
