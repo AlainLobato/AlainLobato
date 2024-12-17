@@ -1,4 +1,4 @@
-# Hi there, I'm Alain Lobato 👋
+# Hi there, I'm Alain Lobato. 👋
 
 ### "Programming the world one line at a time." 🌍💻
 
