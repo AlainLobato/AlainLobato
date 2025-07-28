@@ -7,11 +7,10 @@ I'm a **Computer Science student** with a passion for software development, hybr
 🎮 In my free time, I'm a **Pokémon fan**, a **passionate mathematician** and a **musician**. I also proudly support **Rayados** ⚽! <img src="https://cdn.brandfetch.io/idmtLjI82q/theme/dark/logo.svg?c=1bfwsmEH20zzEfSNTed" alt="Rayados Logo" width="22"/>
 
 
-🌎 **From Monterrey, Mexico.** 🇲🇽 | **19 years old.** 🎂
+🌎 **From Monterrey, Mexico.** 🇲🇽 | **20 years old.** 🎂
 
-## 💼 Skills
+## 💼 Skills that i've learned
 
-### Intermediate
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -23,21 +22,21 @@ I'm a **Computer Science student** with a passion for software development, hybr
 ![Python](https://skillicons.dev/icons?i=python)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
-![SQL Server](https://skillicons.dev/icons?i=sqlserver)
-
-### Beginner
 ![Ruby on Rails](https://skillicons.dev/icons?i=ruby)
 ![Flask](https://skillicons.dev/icons?i=flask)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![Linux](https://skillicons.dev/icons?i=linux)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-
-## 📚 Currently learning
-- Backend with **Ruby on Rails** 💎
-- **Statistical Analysis** 📊
-
-## 🎯 Long-term Goal
-- To create my **own company**. 🚀
+![Vite](https://skillicons.dev/icons?i=vite)
+![Rails](https://skillicons.dev/icons?i=rails)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![Mongodb](https://skillicons.dev/icons?i=mongodb)
+![Heroku](https://skillicons.dev/icons?i=heroku)
+![Express](https://skillicons.dev/icons?i=express)
+![C](https://skillicons.dev/icons?i=c)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
 
 ## 🚀 Projects
 
@@ -71,11 +70,8 @@ A webpage for solving problems with various methods, developed with **HTML**, **
 
 ## 🤝 Contributions
 Feel free to contribute with new ideas, code improvements, or feedback!
+GitHub Stats
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlainLobato&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-## 🗣️ Top Languages
+## 📊  Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlainLobato&layout=compact&theme=radical)
