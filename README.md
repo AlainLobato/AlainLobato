@@ -16,6 +16,7 @@ I'm a **Computer Science student** with a passion for software development, hybr
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Angular](https://skillicons.dev/icons?i=angular)
+![React](https://skillicons.dev/icons?i=react)
 ![Github](https://skillicons.dev/icons?i=github)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
