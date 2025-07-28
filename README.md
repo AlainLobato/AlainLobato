@@ -70,7 +70,7 @@ A webpage for solving problems with various methods, developed with **HTML**, **
 
 ## 🤝 Contributions
 Feel free to contribute with new ideas, code improvements, or feedback!
-GitHub Stats
+If you want to talk about a project, tell me your ideas: alainlobato0710@gmail.com
 
 ## 📊  Top Languages
 
