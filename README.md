@@ -1,5 +1,5 @@
 # Hi there, I'm Alain Lobato. 👋 | 🇲🇽
-### 🔗 **Portfolio:** [My Portfolio](https://about-me-five-pied.vercel.app/personal)
+### 🔗 **Portfolio:** [My Portfolio](https://about-me-five-pied.vercel.app/)
 
 I'm a **CS student** specializing in **Software Development**, **Hybrid App Development**, and **Data Analysis**. Passionate about leveraging technology to create innovative solutions to complex problems.
 
