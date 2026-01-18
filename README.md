@@ -1,11 +1,11 @@
 # Hi there, I'm Alain Lobato. 👋 | 🇲🇽
 ### 🔗 **Portfolio:** [My Portfolio](https://about-me-five-pied.vercel.app/)
-
+### <a href="https://www.linkedin.com/in/alain-lobato/" target="_blank">![Linkedin](https://skillicons.dev/icons?i=linkedin) Alain Lobato</a>
 I'm a **CS student** specializing in **Software Development**, **Hybrid App Development**, and **Data Analysis**. Passionate about leveraging technology to create innovative solutions to complex problems.
 
 ## 💼 Skills & Technologies
 
-### Frontend, Mobile & Frameworks
+### Frontend & Frameworks
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -14,11 +14,13 @@ I'm a **CS student** specializing in **Software Development**, **Hybrid App Deve
 ![React](https://skillicons.dev/icons?i=react)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
+![Vue](https://skillicons.dev/icons?i=vue)
+![Expo](https://skillicons.dev/icons?i=expo)
 
 ### Backend & Languages
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Python](https://skillicons.dev/icons?i=python)
-![Ruby on Rails](https://skillicons.dev/icons?i=ruby)
+![Ruby on Rails](https://skillicons.dev/icons?i=rails)
 ![Flask](https://skillicons.dev/icons?i=flask)
 ![Express](https://skillicons.dev/icons?i=express)
 ![C](https://skillicons.dev/icons?i=c)
@@ -31,7 +33,7 @@ I'm a **CS student** specializing in **Software Development**, **Hybrid App Deve
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
 ![Github](https://skillicons.dev/icons?i=github)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
-
+![Pinia](https://skillicons.dev/icons?i=pinia)
 ---
 
 ## 🚀 Featured Projects
